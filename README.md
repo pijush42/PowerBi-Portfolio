@@ -1,2 +1,2 @@
 # PowerBi-Portfolio
-This repository contains my Power Bi Projects
+This repository contains my Power Bi Projects.
