@@ -1,3 +1,2 @@
 # PowerBi-Portfolio
 This repository contains my Power Bi Projects
-The Euro Grossen Sales Dashboard is an interactive and visually appealing Power BI report designed to provide a comprehensive overview of sales performance and profitability. This dashboard enables quick decision-making by presenting key metrics such as net profit, total sales, total quantity, and average order value (AOV) in a clear and concise format. It showcases insights into top-selling product categories, monthly profit trends, and profit distribution across product categories, ensuring a well-rounded understanding of business performance.
