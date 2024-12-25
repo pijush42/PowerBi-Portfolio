@@ -5,16 +5,30 @@ The Euro Grossen Sales Dashboard is an interactive and visually appealing Power 
 Key Features
 Key Performance Indicators (KPIs):
 
-Displays Net Profit (€4.32M), Total Sales (€18.73M), Total Quantity Sold (312K units), and Average Order Value (€288.4K) prominently at the top for instant insights.
-Category-Wise Analysis:
+Performance Metrics at a Glance:
 
-Highlights top-selling product categories such as Spices (43.98%) and Frozen Fish (22.76%) through interactive treemaps and pie charts.
-Monthly Performance Tracking:
+Net Profit: €4.32M
+Total Sales: €18.73M
+Total Quantity Sold: 312K units
+Average Order Value (AOV): €288.40K
+Top-Selling Product Categories:
 
-A bar chart visualizes Profit by Month, enabling users to identify seasonal trends and monthly performance variations.
-Top-Selling Products:
+Visualized using a treemap, the dashboard highlights leading categories, such as:
+Spices (43.98%) dominating profit contribution.
+Frozen Fish (22.76%) as a key revenue generator.
+Profit Trends by Month:
 
-Identifies individual top-selling products, allowing deeper insight into product-specific success.
+A bar chart provides a clear picture of monthly profitability, helping identify seasonal peaks and dips.
+Top 10 Profitable Products:
+
+A focused breakdown of the most profitable products, enabling targeted sales strategies.
+Profit Contribution Breakdown:
+
+A donut chart categorizes profits across key product segments, offering a concise view of each category's contribution.
+Interactive Features:
+
+Quarterly filters and dropdowns allow users to drill down into specific periods or focus areas.
+Dynamic visuals update based on user selections for tailored insights.
 Interactive Filters:
 
 Quarterly and product-category filters enable users to drill down into specific periods or categories for a tailored analysis.
